@@ -8,11 +8,11 @@ The app includes animations, score tracking, and a clean UI, making it fun and p
 ---
 
 ## ✨ Features
-- 🎨 **Modern UI** built with Tkinter
-- 📊 **Score Tracking** for both player and computer
-- 🎉 **Confetti Animation** when winning
-- 🔄 **Reset & Replay Options**
-- 🖥 **Runs on any OS** with Python installed
+- **Modern UI** built with Tkinter
+- **Score Tracking** for both player and computer
+- **Confetti Animation** when winning
+- **Reset & Replay Options**
+- **Runs on any OS** with Python installed
 
 ---
 
@@ -21,7 +21,6 @@ The app includes animations, score tracking, and a clean UI, making it fun and p
 rpk_tk_app/
 │-- main.py          # Main game logic & UI
 │-- README.md        # Project documentation
-│-- assets/          # Optional image/sound files (if used)
 ```
 
 ---
@@ -29,8 +28,8 @@ rpk_tk_app/
 ## 🚀 Installation & Usage
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/sneha205985/Rock_Paper_Scissors-CodSoft
+cd Rock_Paper_Scissors-CodSoft
 ```
 
 ### 2️⃣ Create a virtual environment (optional but recommended)
@@ -52,11 +51,6 @@ python main.py
 
 ---
 
-## 📸 Screenshots
-*(Add screenshots here after running the app)*
-
----
-
 ## 🛠 Requirements
 - Python 3.8+
 - Tkinter (comes pre-installed with Python)
@@ -68,9 +62,4 @@ Feel free to fork this project, make improvements, and create a pull request.
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
-
-💡 *Developed with ❤️ in Python*
+Developed by Sneha Gupta

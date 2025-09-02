@@ -1,4 +1,3 @@
-
 # Rock Paper Scissors - Interactive Tkinter App 🎮
 
 ## 📌 Overview
